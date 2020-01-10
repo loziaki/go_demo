@@ -1,0 +1,10 @@
+#mysql
+[database]
+    Driver = "mysql"
+    Database = "che"
+    Host = "127.0.0.1"
+    User = "dev5"
+    Password = "654321"
+    Port = 3306
+[apiVar]
+    EmailExts = ["hylink.com","hylinkad.com","pagechoice.com","wizad.com.cn"]
